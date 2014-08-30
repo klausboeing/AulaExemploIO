@@ -1,0 +1,3 @@
+"Klaus","Criciuma","SC"
+"Maria","Içara","SC"
+"Julia","Curitiba","PR"
